@@ -32,12 +32,27 @@ Komponen yang digunakan:
 
 <h2>Tangkapan Layar Komponen Penting</h2>
 <ol>
-  <li>ApexCharts</li> <img src = "geoserver/Screenshot 2023-11-25 114322.png" width = "500">
-  <li>PHPMyAdmin</li> <img src = "geoserver/Screenshot 2023-11-25 114447.png" width = "500">
-  <li>Geoserver</li> <img src = "geoserver/Screenshot 2023-11-25 114601.png" width = "500">
-  <li>WSchools</li> <img src = "geoserver/Screenshot 2023-11-25 114729.png" width = "500">
-   <li>FontAwesome</li> <img src = "geoserver/Screenshot 2023-11-25 115018.png" width = "500">
-</ol>
+  <li>ApexCharts</li> <img src = "Landingpage.png" width = "500">
+  <h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "page2.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "3.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "4.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "5.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "6.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "7.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "8.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "9.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "10.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "11.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "13.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "14.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "15.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "16.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <ol>
+  
+  
+
+  
 
 
 
