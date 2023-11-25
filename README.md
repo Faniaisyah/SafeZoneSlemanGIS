@@ -15,7 +15,8 @@ Komponen yang digunakan:
 Sumber data:
 1. Geoportal Kabupaten Sleman
 
-![Logo SafeZoneSlemanGIS](police.png)
+![Logo SafeZoneSlemanGIS](https://raw.githubusercontent.com/Faniaisyah/SafeZoneSlemanGIS/main/police.png)
+
 
 
 
