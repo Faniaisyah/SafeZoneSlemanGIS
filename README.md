@@ -34,20 +34,20 @@ Komponen yang digunakan:
 <ol>
   <li>ApexCharts</li> <img src = "Landingpage.png" width = "500">
   <h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "page2.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "3.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "4.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "5.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "6.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "7.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "8.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "9.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "10.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "11.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "13.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "14.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "15.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
-  <li>ApexCharts</li> <img src = "16.png" width = "500"><h2>Tangkapan Layar Komponen Penting</h2>
+  <li>ApexCharts</li> <img src = "page2.png" width = "500">
+  <li>ApexCharts</li> <img src = "3.png" width = "500">
+  <li>ApexCharts</li> <img src = "4.png" width = "500">
+  <li>ApexCharts</li> <img src = "5.png" width = "500">
+  <li>ApexCharts</li> <img src = "6.png" width = "500">
+  <li>ApexCharts</li> <img src = "7.png" width = "500">
+  <li>ApexCharts</li> <img src = "8.png" width = "500">
+  <li>ApexCharts</li> <img src = "9.png" width = "500">
+  <li>ApexCharts</li> <img src = "10.png" width = "500">
+  <li>ApexCharts</li> <img src = "11.png" width = "500">
+  <li>ApexCharts</li> <img src = "13.png" width = "500">
+  <li>ApexCharts</li> <img src = "14.png" width = "500">
+  <li>ApexCharts</li> <img src = "15.png" width = "500">
+  <li>ApexCharts</li> <img src = "16.png" width = "500">
   <ol>
   
   
