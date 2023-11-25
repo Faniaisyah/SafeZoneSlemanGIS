@@ -15,7 +15,12 @@ Komponen yang digunakan:
 Sumber data:
 1. Geoportal Kabupaten Sleman
 
-![Logo SafeZoneSlemanGIS](https://raw.githubusercontent.com/Faniaisyah/SafeZoneSlemanGIS/geoserver/police.png)
+<h2>Tangkapan Layar Komponen Penting</h2>
+<ol>
+  <li>Landing Page</li> <img src = "geoserver/Assets//img/legendac.png" width = "500">
+  <li>Peta Sebaran Wisata (Integrasi WebGIS dan Database)</li> <img src = "assets/img/foto/wisata.png" width = "500">
+  <li>Peta Sebaran Resort/Hotel  (Integrasi WebGIS dan Database) </li> <img src = "assets/img/foto/penginapan.png" width = "500">
+</ol>
 
 
 
