@@ -3,13 +3,13 @@
 "SafeZoneSlemanGIS" adalah sistem informasi geografis yang memetakan titik-titik strategis dalam pertahanan dan keamanan wilayah Sleman, membantu pengambilan keputusan dan perencanaan efektif.
 
 Komponen yang digunakan:
-1. xampp
-2. geoserver
-3. visual studio
-
-4. w3schools
-5. hapexcharts
-6. fontawesome
+1. Xampp
+2. Geoserver
+3. Visual Studio
+4. W3schools
+5. ApexCharts
+6. Fontawesome
+7. PHPMyAdmin
 
 
 <h2>Sumber Data:</h2>
