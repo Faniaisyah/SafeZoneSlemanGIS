@@ -16,7 +16,7 @@ Komponen yang digunakan:
 
 <ul>
   <li><a href="https://geoportal.slemankab.go.id/">Geoportal Kabupaten Sleman</a></li>
-  <li><a href="[https://geoportal.slemankab.go.id/](https://geoportal.slemankab.go.id/layers/geonode_data:geonode:a__3404_5KB_PT_HANKAM_SLEMAN_2019)">Data Sebaran Failitas Pertahanan Dan Kemanan</a></li>
+  <li><a href="https://geoportal.slemankab.go.id/search/?title__icontains=SEBARAN%20FASILITAS%20PERTAHANAN%20DAN%20KEAMANAN%20DI%20KABUPATEN%20SLEMAN%20TAHUN%202019&abstract__icontains=SEBARAN%20FASILITAS%20PERTAHANAN%20DAN%20KEAMANAN%20DI%20KABUPATEN%20SLEMAN%20TAHUN%202019&purpose__icontains=SEBARAN%20FASILITAS%20PERTAHANAN%20DAN%20KEAMANAN%20DI%20KABUPATEN%20SLEMAN%20TAHUN%202019&f_method=or&limit=5&offset=0">Data Sebaran Fasilitas Pertahanan Dan Kemanan</a></li>
  <li><a href="https://geoportal.slemankab.go.id/">Data Sebaran Pos Kamling Kabupaten Sleman</a></li>
 </ul>
 
