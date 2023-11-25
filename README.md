@@ -15,12 +15,9 @@ Komponen yang digunakan:
 <h2>Sumber Data:</h2>
 
 <ul>
-  <li><a
-                    href="https://geoportal.slemankab.go.id/">Statistik
-                    Pariwisata Kabupaten Buleleng 2020</a></li>
-  <li>Data Shapefile Administrasi Kabupaten Buleleng </li>
-  <li>Data Lokasi Koordinat Titik Lokasi Wisata dan Penginapan Kabupaten Buleleng yang diambil dari Google Maps dan Google Earth</li>
-  <li>Database Penginapan dan Wisata Kabupaten Buleleng yang diambil dari Google Maps dan Sumber Website lain</li>
+  <li><a href="https://geoportal.slemankab.go.id/">Geoportal Kabupaten Sleman</a></li>
+  <li><a href="[https://geoportal.slemankab.go.id/](https://geoportal.slemankab.go.id/layers/geonode_data:geonode:a__3404_5KB_PT_HANKAM_SLEMAN_2019)">Data Sebaran Failitas Pertahanan Dan Kemanan</a></li>
+ <li><a href="https://geoportal.slemankab.go.id/">Data Sebaran Pos Kamling Kabupaten Sleman</a></li>
 </ul>
 
 <h2>Tangkapan Layar Komponen Penting</h2>
