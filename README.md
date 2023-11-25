@@ -33,7 +33,6 @@ Komponen yang digunakan:
 <h2>Tangkapan Layar Komponen Penting</h2>
 <ol>
   <li>ApexCharts</li> <img src = "Landingpage.png" width = "500">
-  <h2>Tangkapan Layar Komponen Penting</h2>
   <li>ApexCharts</li> <img src = "page2.png" width = "500">
   <li>ApexCharts</li> <img src = "3.png" width = "500">
   <li>ApexCharts</li> <img src = "4.png" width = "500">
