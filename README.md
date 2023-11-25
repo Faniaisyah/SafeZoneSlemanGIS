@@ -13,7 +13,14 @@ Komponen yang digunakan:
 
 
 Sumber data:
-1. Geoportal Kabupaten Sleman
+<ul>
+  <li><a
+                    href="[https://bulelengkab.bps.go.id/publication/2021/11/30/ce55208d0959cae7aa1c354d/statistik-pariwisata-kabupaten-buleleng-2020.html](https://geoportal.slemankab.go.id/)">Statistik
+                    Pariwisata Kabupaten Buleleng 2020</a></li>
+  <li>Data Shapefile Administrasi Kabupaten Buleleng </li>
+  <li>Data Lokasi Koordinat Titik Lokasi Wisata dan Penginapan Kabupaten Buleleng yang diambil dari Google Maps dan Google Earth</li>
+  <li>Database Penginapan dan Wisata Kabupaten Buleleng yang diambil dari Google Maps dan Sumber Website lain</li>
+</ul>
 
 <h2>Tangkapan Layar Komponen Penting</h2>
 <ol>
